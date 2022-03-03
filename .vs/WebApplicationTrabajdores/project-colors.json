@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b93e345c-365a-4f5c-9932-2ea4f9ae5285": {
+      "ProjectGuid": "b93e345c-365a-4f5c-9932-2ea4f9ae5285",
+      "DisplayName": "WebApplicationTrabajdores",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
